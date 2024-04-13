@@ -1,0 +1,3 @@
+interface AppEvents {
+    onStart: void,
+}
